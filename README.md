@@ -19,7 +19,7 @@ then compile main.c and run it.
 ### Syntax for compile        : "gcc 2208107010072_Simple_Sorting.c -o [file_name]"
 ### Syntax for run program    : "./[file_name]"
 
-## OUTPUT EXAMPLE
+## Output Example
 
 ![output_example](output_example.png)
 
