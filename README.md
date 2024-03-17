@@ -1,3 +1,5 @@
+# Benchmarking Sorting Algorithms: Bubble Sort, Selection Sort, and Insertion Sort
+
 This project has been built to calculate the length of execution time for 3 types of sorting viz
 - Bubble Sort
 - Selection Sort
@@ -14,7 +16,7 @@ The program will randomize 1000k integer numbers first and then carry out the th
 To run this program, you only need to clone this GitHub project into your Text Editor/IDE, 
 then compile main.c and run it. 
 
-syntax for compile        : "gcc main.c -o main"
+syntax for compile        : "gcc main.c -o main", 
 syntax for run program    : "./main"
 
 OUTPUT EXAMPLE
