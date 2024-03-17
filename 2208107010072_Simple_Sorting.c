@@ -103,7 +103,7 @@ int main() {
     saveToFile("unsorted.txt", numbers, MAX_NUMBERS);
 
     printf("\n---------------------------------------------------------------\n");
-    printf("Jenis Algoritma\t| Jumlah Bilangan\t| Waktu Eksekusi (ms)\n");
+    printf("Sort Algorithm\t| Integers Total\t| Execution Time (ms)\n");
     printf("---------------------------------------------------------------\n");
 
     int step = 100000;
