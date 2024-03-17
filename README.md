@@ -16,7 +16,7 @@ The program will randomize 1000k integer numbers first and then carry out the th
 To run this program, you only need to clone this GitHub project into your Text Editor/IDE, 
 then compile main.c and run it. 
 
-### Syntax for compile        : "gcc main.c -o main", 
+### Syntax for compile        : "gcc main.c -o main"
 ### Syntax for run program    : "./main"
 
 ## OUTPUT EXAMPLE
