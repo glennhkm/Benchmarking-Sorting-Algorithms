@@ -16,9 +16,12 @@ The program will randomize 1000k integer numbers first and then carry out the th
 To run this program, you only need to clone this GitHub project into your Text Editor/IDE, 
 then compile main.c and run it. 
 
-### Syntax for compile        : "gcc main.c -o main"
-### Syntax for run program    : "./main"
+### Syntax for compile        : "gcc 2208107010072_Simple_Sorting.c -o [file_name]"
+### Syntax for run program    : "./[file_name]"
 
 ## OUTPUT EXAMPLE
 
 ![output_example](output_example.png)
+
+## Explanation video
+https://drive.google.com/file/d/1jARzc1KW6u1W8pZM51L75-mcItLOD7uO/view?usp=sharing
