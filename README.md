@@ -16,3 +16,6 @@ then compile main.c and run it.
 
 syntax for compile        : "gcc main.c -o main"
 syntax for run program    : "./main"
+
+OUTPUT EXAMPLE
+![output_example](output_example.png)
